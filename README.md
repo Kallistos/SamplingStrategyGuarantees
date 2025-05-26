@@ -1,6 +1,6 @@
-# Evaluation Scripts for the paper "Is there a Better/Worse Configuration? Lifting Scenario Theory to Analyze Sampling Strategies and their Guarantees"
+# Evaluation Scripts for the paper "Evaluating Risk and Confidence in Performance Bounds of Configuration Sampling Strategies"
 
-This repository contains the data and evaluation script to reproduce the results, graphs and tables for the FSE submission "Is there a Better/Worse Configuration? Lifting Scenario Theory to Analyze Sampling Strategies and their Guarantees".
+This repository contains the data and evaluation script to reproduce the results, graphs and tables for the ICSE submission "Evaluating Risk and Confidence in Performance Bounds of Configuration Sampling Strategies".
 
 You can find the data in the `sampling` subfolder inside the `data` folder. The files in the `tikz` subfolder of `data` contains the csv files that are used to generate the tikz code for the graphs in the paper.
 
